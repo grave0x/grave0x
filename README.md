@@ -5,29 +5,28 @@
 </p>
 
 <h1 align="center">grave0x</h1>
-<p align="center"><b>Building tools for machines — and the people who run them.</b></p>
 
 <p align="center">
-  <a href="https://grave0x.github.io/homepage/">🌐 self-site</a> ·
-  <a href="https://github.com/grave0x?tab=repositories">📦 repos</a> ·
-  <a href="https://github.com/grave0x?tab=stars">⭐ starred</a>
+  Engineer at <b>Grave Inc.</b> I write small, self-contained tools and the config that ties machines together.
 </p>
 
----
+<p align="center">
+  <a href="https://grave0x.github.io/homepage/">self-site</a> ·
+  <a href="https://github.com/grave0x?tab=repositories">repositories</a> ·
+  <a href="https://github.com/grave0x?tab=stars">stars</a>
+</p>
 
-## 💀 About
+## About
 
-Engineer behind **Grave Inc.**, based in Australia. I build fast, self-contained tooling — mostly in **Rust**, with healthy doses of **Python**, **Go**, and **Ruby**:
+I am grave0x, an engineer based in Australia. I work in Rust, Python, Go, and Ruby. Most of my public work falls into three areas:
 
-- 🗂 **Dotfile & config management** — unify machines with type-safe modules
-- 🤖 **LLM agent tooling** — centralized agent managers, open-code ports, prompt engineering
-- 🔐 **Security tooling** — API scanners, Cast protocol, reputation systems
+- Dotfile and config management. `dwell` unifies machines with type-safe modules; `dotllm` manages LLM agent config in one binary.
+- LLM agent tooling. `opencodeR` is a Rust port of the OpenCode agent; `llm-engineering` collects prompt work.
+- Security tooling. `rapiscm` scans APIs, `cast-receiver` speaks the Google Cast protocol.
 
-> "If it's a single binary, it's done right."
+If a tool can ship as one binary, I make it one.
 
----
-
-## 🧰 Stack
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -38,31 +37,24 @@ Engineer behind **Grave Inc.**, based in Australia. I build fast, self-contained
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
----
-
-## ⚰️ Featured Projects
+## Featured projects
 
 | Project | Language | What it does |
 |---|---|---|
-| [rapiscm](https://github.com/grave0x/rapiscm) | Rust | API security scanner — spec, URL, fuzz, ghost mode, JS bundle analysis |
-| [dotllm](https://github.com/grave0x/dotllm) | Rust | Centralized LLM agent manager — a single Rust binary for `~/.llm` |
-| [dwell](https://github.com/grave0x/dwell) | Rust | Unify your dotfiles across machines: type-safe modules, cross-platform packages, plugin system |
+| [rapiscm](https://github.com/grave0x/rapiscm) | Rust | API security scanner: spec, URL, fuzz, ghost mode, JS bundle analysis |
+| [dotllm](https://github.com/grave0x/dotllm) | Rust | Centralized LLM agent manager, one binary for `~/.llm` |
+| [dwell](https://github.com/grave0x/dwell) | Rust | Unify dotfiles across machines: type-safe modules, cross-platform packages, plugins |
 | [Aerie](https://github.com/grave0x/Aerie) | Rust | Open-source eagle.cool alternative |
-| [opencodeR](https://github.com/grave0x/opencodeR) | Rust | Rust port of the OpenCode AI coding agent — HTTP API, CLI, TUI |
-| [cast-receiver](https://github.com/grave0x/cast-receiver) | Go | Minimal Google Cast receiver — mDNS, TLS, Cast v2, media playback in one binary |
-| [gitprops](https://github.com/grave0x/gitprops) | JavaScript | Distributed GitHub respect/reputation system — give respect, sync through git |
-| [ci-cd-templates](https://github.com/grave0x/ci-cd-templates) | — | Reusable CI/CD workflow templates for Rust, Python, Node.js, Go, C and more |
+| [opencodeR](https://github.com/grave0x/opencodeR) | Rust | Rust port of the OpenCode AI coding agent: HTTP API, CLI, TUI |
+| [cast-receiver](https://github.com/grave0x/cast-receiver) | Go | Minimal Google Cast receiver: mDNS, TLS, Cast v2, media playback |
+| [gitprops](https://github.com/grave0x/gitprops) | JavaScript | Distributed respect/reputation system that syncs through git |
+| [ci-cd-templates](https://github.com/grave0x/ci-cd-templates) | — | Reusable CI/CD templates for Rust, Python, Node.js, Go, C |
 
-<details>
-<summary><b>📈 Stats</b></summary>
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grave0x&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grave0x&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-</details>
-
----
-
-<p align="center"><i>maintained with ☠ by grave0x · Grave Inc.</i></p>
+grave0x · Grave Inc.
