@@ -50,11 +50,26 @@ If a tool can ship as one binary, I make it one.
 | [gitprops](https://github.com/grave0x/gitprops) | JavaScript | Distributed respect/reputation system that syncs through git |
 | [ci-cd-templates](https://github.com/grave0x/ci-cd-templates) | — | Reusable CI/CD templates for Rust, Python, Node.js, Go, C |
 
+## Recent activity
+
+<!-- CHANGELOG:START -->
+| repo | latest release | pushed | language | stars |
+|---|---|---|---|---|
+| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-08-03 | JavaScript | ★ 0 |
+| [llm-api](https://github.com/grave0x/llm-api) | `—` | 2026-08-02 | Shell | ★ 0 |
+| [dwell](https://github.com/grave0x/dwell) | `—` | 2026-08-02 | Rust | ★ 0 |
+| [opencodeR](https://github.com/grave0x/opencodeR) | `v0.1.0` | 2026-08-01 | Rust | ★ 0 |
+| [mitmproxy-mcp](https://github.com/grave0x/mitmproxy-mcp) | `—` | 2026-07-29 | Python | ★ 0 |
+
+*last updated 2026-08-03 by [github-actions](https://github.com/features/actions)*
+<!-- CHANGELOG:END -->
+
 ## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grave0x&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grave0x&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://cachyos-dell-x8664.tail1bd365.ts.net/badge?v=grave0x" alt="profile visitors"/>
 </p>
 
 grave0x · Grave Inc.
