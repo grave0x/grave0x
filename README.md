@@ -58,3 +58,7 @@ If a tool can ship as one binary, I make it one.
 </p>
 
 grave0x · Grave Inc.
+
+<!-- profile visit tracking (gitvisitor) -->
+<img src="https://cachyos-dell-x8664.tail1bd365.ts.net/t?v=grave0x" width="1" height="1" alt="" />
+
