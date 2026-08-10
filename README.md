@@ -55,10 +55,10 @@ If a tool can ship as one binary, I make it one.
 <!-- CHANGELOG:START -->
 | repo | latest release | pushed | language | stars |
 |---|---|---|---|---|
-| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-08-09 | JavaScript | ★ 0 |
+| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-08-10 | JavaScript | ★ 0 |
 | [agent-mesh](https://github.com/grave0x/agent-mesh) | `—` | 2026-08-06 | Python | ★ 0 |
 
-*last updated 2026-08-09 by [github-actions](https://github.com/features/actions)*
+*last updated 2026-08-10 by [github-actions](https://github.com/features/actions)*
 <!-- CHANGELOG:END -->
 
 ## Stats
