@@ -55,14 +55,14 @@ If a tool can ship as one binary, I make it one.
 <!-- CHANGELOG:START -->
 | repo | latest release | pushed | language | stars |
 |---|---|---|---|---|
-| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-08-25 | JavaScript | ★ 0 |
-| [oh-my-prime-agent](https://github.com/grave0x/oh-my-prime-agent) | `v0.2.0` | 2026-08-25 | TypeScript | ★ 0 |
-| [moonshell](https://github.com/grave0x/moonshell) | `—` | 2026-08-25 | Rust | ★ 0 |
-| [governance-papers](https://github.com/grave0x/governance-papers) | `—` | 2026-08-24 | — | ★ 0 |
-| [papers](https://github.com/grave0x/papers) | `—` | 2026-08-24 | TeX | ★ 0 |
-| [yamsplice](https://github.com/grave0x/yamsplice) | `—` | 2026-08-22 | Go | ★ 0 |
+| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-08-26 | JavaScript | ★ 1 |
+| [agent-mesh](https://github.com/grave0x/agent-mesh) | `—` | 2026-08-25 | Python | ★ 1 |
+| [grave-clib](https://github.com/grave0x/grave-clib) | `—` | 2026-08-25 | C | ★ 0 |
+| [papers](https://github.com/grave0x/papers) | `—` | 2026-08-25 | TeX | ★ 1 |
+| [oh-my-prime-agent](https://github.com/grave0x/oh-my-prime-agent) | `v0.2.1` | 2026-08-25 | TypeScript | ★ 1 |
+| [moonshell](https://github.com/grave0x/moonshell) | `—` | 2026-08-25 | Rust | ★ 1 |
 
-*last updated 2026-08-25 by [github-actions](https://github.com/features/actions)*
+*last updated 2026-08-26 by [github-actions](https://github.com/features/actions)*
 <!-- CHANGELOG:END -->
 
 ## Stats
