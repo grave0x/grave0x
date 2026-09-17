@@ -55,12 +55,13 @@ If a tool can ship as one binary, I make it one.
 <!-- CHANGELOG:START -->
 | repo | latest release | pushed | language | stars |
 |---|---|---|---|---|
-| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-09-16 | JavaScript | ★ 1 |
+| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-09-17 | JavaScript | ★ 1 |
+| [mitmproxy-mcp](https://github.com/grave0x/mitmproxy-mcp) | `—` | 2026-09-16 | Python | ★ 0 |
 | [llm-api](https://github.com/grave0x/llm-api) | `—` | 2026-09-13 | Shell | ★ 0 |
 | [dwell](https://github.com/grave0x/dwell) | `—` | 2026-09-13 | Rust | ★ 0 |
 | [swarmstate-open](https://github.com/grave0x/swarmstate-open) | `—` | 2026-09-04 | Python | ★ 1 |
 
-*last updated 2026-09-16 by [github-actions](https://github.com/features/actions)*
+*last updated 2026-09-17 by [github-actions](https://github.com/features/actions)*
 <!-- CHANGELOG:END -->
 
 ## Stats
