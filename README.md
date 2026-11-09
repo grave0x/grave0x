@@ -55,14 +55,14 @@ If a tool can ship as one binary, I make it one.
 <!-- CHANGELOG:START -->
 | repo | latest release | pushed | language | stars |
 |---|---|---|---|---|
-| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-11-08 | JavaScript | ★ 1 |
+| [gitprops](https://github.com/grave0x/gitprops) | `—` | 2026-11-09 | JavaScript | ★ 1 |
 | [userscripts](https://github.com/grave0x/userscripts) | `—` | 2026-11-08 | JavaScript | ★ 0 |
 | [ytm-deslop](https://github.com/grave0x/ytm-deslop) | `—` | 2026-11-07 | JavaScript | ★ 0 |
 | [firefox-userscripts](https://github.com/grave0x/firefox-userscripts) | `—` | 2026-11-07 | JavaScript | ★ 0 |
 | [llm-api](https://github.com/grave0x/llm-api) | `—` | 2026-10-18 | Shell | ★ 0 |
 | [grave0x-portfolio](https://github.com/grave0x/grave0x-portfolio) | `—` | 2026-10-07 | HTML | ★ 0 |
 
-*last updated 2026-11-08 by [github-actions](https://github.com/features/actions)*
+*last updated 2026-11-09 by [github-actions](https://github.com/features/actions)*
 <!-- CHANGELOG:END -->
 
 ## Stats
